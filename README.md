@@ -15,4 +15,4 @@ A simple and efficient command-line unit converter that supports multiple unit c
 To get started with the unit converter, clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/divyanshsood22/unit-converter.git
+git clone https://github.com/divyanshsood22/units-converter.git
